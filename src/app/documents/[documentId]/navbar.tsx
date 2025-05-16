@@ -29,7 +29,7 @@ import {
   RemoveFormattingIcon,
   Strikethrough,
   TextIcon,
-  TrashIcon,
+  // TrashIcon,
   Underline,
   Undo2Icon,
 } from 'lucide-react';
