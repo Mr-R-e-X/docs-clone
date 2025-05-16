@@ -11,8 +11,8 @@
   "dependencies": {
     "@clerk/nextjs": "^6.19.4",
     "@hookform/resolvers": "^5.0.1",
-    "@liveblocks/client": "^2.12.2",
-    "@liveblocks/node": "^2.12.2",
+    "@liveblocks/client": "^2.24.2",
+    "@liveblocks/node": "^2.24.2",
     "@liveblocks/react": "^2.12.2",
     "@liveblocks/react-tiptap": "^2.12.2",
     "@liveblocks/react-ui": "^2.12.2",
